@@ -22,7 +22,7 @@ Tools and frameworks for multimodal speech generation and dialogue
 
 **FastSpeech propose a novel feed-forward network based on Transformer to generate mel-spectrogram in parallel for TTS.** 
 
-**Code：**https://github.com/ming024/FastSpeech2
+**Code:** https://github.com/ming024/FastSpeech2
 
 ## **👥 Spoken Dialogue**
 
@@ -32,4 +32,4 @@ Tools and frameworks for multimodal speech generation and dialogue
 
 **MRSAudio is a large-scale multimodal spatial audio dataset designed to advance research in spatial audio understanding and generation. MRSAudio spans four distinct components: MRSLife, MRSSpeech, MRSMusic, and MRSSing, covering diverse real-world scenarios.** 
 
-**Code：**https://github.com/MRSAudio/MRSAudio_Main
+**Code:** https://github.com/MRSAudio/MRSAudio_Main
