@@ -33,3 +33,13 @@ FastSpeech propose a novel feed-forward network based on Transformer to generate
 MRSAudio is a large-scale multimodal spatial audio dataset designed to advance research in spatial audio understanding and generation. MRSAudio spans four distinct components: MRSLife, MRSSpeech, MRSMusic, and MRSSing, covering diverse real-world scenarios.
 
 **Code:** https://github.com/MRSAudio/MRSAudio_Main
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=MM-Speech%2FMMSpeech&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MM-Speech/MMSpeech&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MM-Speech/MMSpeech&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MM-Speech/MMSpeech&type=date&legend=top-left" />
+ </picture>
+</a>
